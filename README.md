@@ -38,7 +38,3 @@ Bu proje açık kaynaklıdır ve katkılarınıza açıktır. Katkıda bulunmak 
 ## Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
-
----
-
-Bu açıklama, projenin GitHub sayfası için bir README dosyası olarak kullanılabilir. Proje detayları, kurulum talimatları, kullanım kılavuzu ve katkıda bulunma yönergeleri içerir.
