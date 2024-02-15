@@ -1,35 +1,44 @@
 # Canli-saat-uygulamasi
 
-## Uzun Açıklama
+# Gelişmiş Alarm Saati
 
-**Python Canlı Saat Uygulaması:** Bu uygulama, Python'da Tkinter kütüphanesini kullanarak gerçek zamanlı bir saat oluşturur. Şu anki zamanı büyük ve okunaklı bir şekilde gösterir ve her saniye otomatik olarak güncellenir.
+Bu proje, Python ve Tkinter kullanılarak geliştirilmiş bir masaüstü alarm saatidir. Kullanıcı dostu bir arayüz sunar ve birden fazla özelliği ile kullanıcıların günlük yaşamlarında ihtiyaç duydukları zaman yönetimine yardımcı olur. Temel olarak, belirlenen zamanda kullanıcıyı uyaracak şekilde tasarlanmıştır ve çeşitli özelleştirme seçenekleri sunar.
 
-**Özellikler:**
+## Özellikler
 
-* **Kolay kurulum ve kullanım:** Tek yapmanız gereken kodu kopyalamak, bir `.py` dosyası olarak kaydetmek ve çalıştırmaktır.
-* **Gerçek zamanlı saat göstergesi:** Saat, her saniye otomatik olarak güncellenen büyük ve okunaklı bir yazı tipiyle gösterilir.
-* **Büyük ve okunaklı yazı tipi:** Saat, uzaktan bile kolayca görülebilecek şekilde büyük ve okunaklı bir yazı tipiyle gösterilir.
-* **Her saniye otomatik güncelleme:** Saat, her saniye otomatik olarak güncellenerek her zaman doğru zamanı gösterir.
+- **Alarm Ayarlama:** Kullanıcılar, HH:MM formatında alarm zamanı ayarlayabilirler.
+- **Ses Seçimi:** Alarm için özel bir ses dosyası seçilebilir. Kullanıcı bir dosya seçmezse, varsayılan bir alarm sesi çalınır.
+- **Alarm Testi:** Ayarlanan alarm sesini önceden dinlemek için bir test özelliği bulunur.
+- **Erteleme (Snooze) Özelliği:** Alarm çaldığında, kullanıcılar belirli bir süre sonra tekrar çalmasını sağlamak üzere alarmı erteleyebilirler.
+- **Alarm Durdurma:** Çalan alarm, kullanıcı tarafından herhangi bir zamanda durdurulabilir.
 
-**Kullanım Alanları:**
+## Kurulum
 
-* **Bilgisayarınızda veya sunucunuzda saati takip etmek:** Bu uygulama, bilgisayarınızda veya sunucunuzda saati takip etmek için kullanılabilir.
-* **Bir sunum veya gösteri için zamanlayıcı oluşturmak:** Bu uygulama, bir sunum veya gösteri için zamanlayıcı oluşturmak için kullanılabilir.
-* **Kendi dijital saatinizi oluşturmak:** Bu uygulamayı kullanarak kendi dijital saatinizi oluşturabilirsiniz.
+Bu uygulamayı kullanmak için Python'un yanı sıra Tkinter kütüphanesine ihtiyacınız olacaktır. Eğer Python kurulu değilse veya Tkinter kütüphanesine sahip değilseniz, lütfen öncelikle bu gereksinimleri karşılayın.
 
-**Uygulamayı çalıştırmak için:**
+1. Python'u [Python'un resmi web sitesinden](https://www.python.org/downloads/) indirin ve kurun.
+2. Projeyi yerel makinenize klonlayın veya indirin.
+3. Terminal veya komut satırı aracılığıyla projenin bulunduğu klasöre gidin.
+4. Uygulamayı başlatmak için terminalde `python alarm_clock.py` komutunu çalıştırın.
 
-1. Kodunuzu bir `.py` dosyası olarak kaydedin.
-2. Python yorumlayıcınızda dosyayı çalıştırın.
+## Kullanım
 
-**Daha fazla bilgi için:**
+Uygulama başlatıldığında, bir pencere açılır ve kullanıcıdan alarm ayarlaması istenir. Alarm zamanı, ses dosyası seçimi, test ve durdurma gibi işlemler bu arayüz üzerinden gerçekleştirilebilir.
 
-* GitHub deposu: [https://github.com/topics/depot](https://github.com/topics/depot)
+## Katkıda Bulunma
 
-**Geliştirmeler:**
+Bu proje açık kaynaklıdır ve katkılarınıza açıktır. Katkıda bulunmak isterseniz, lütfen aşağıdaki adımları takip edin:
 
-* Tarihi de gösterebilirsiniz.
-* Farklı yazı tipleri ve renkler kullanabilirsiniz.
-* Alarm fonksiyonu ekleyebilirsiniz.
+1. Projeyi forklayın ve kendi GitHub hesabınıza klonlayın.
+2. Yeni bir branch oluşturun (`git checkout -b yeni-ozellik`).
+3. Değişikliklerinizi commit edin (`git commit -am 'Yeni özellikler eklendi'`).
+4. Branch'inizi push edin (`git push origin yeni-ozellik`).
+5. Yeni bir Pull Request oluşturun.
 
-**Not:** Bu uygulama, eğitim ve deneme amaçlıdır. Ticari kullanım için uygun olmayabilir.
+## Lisans
+
+Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
+
+---
+
+Bu açıklama, projenin GitHub sayfası için bir README dosyası olarak kullanılabilir. Proje detayları, kurulum talimatları, kullanım kılavuzu ve katkıda bulunma yönergeleri içerir.
