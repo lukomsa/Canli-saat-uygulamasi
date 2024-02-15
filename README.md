@@ -1,7 +1,5 @@
 # Canli-saat-uygulamasi
 
-# Gelişmiş Alarm Saati
-
 Bu proje, Python ve Tkinter kullanılarak geliştirilmiş bir masaüstü alarm saatidir. Kullanıcı dostu bir arayüz sunar ve birden fazla özelliği ile kullanıcıların günlük yaşamlarında ihtiyaç duydukları zaman yönetimine yardımcı olur. Temel olarak, belirlenen zamanda kullanıcıyı uyaracak şekilde tasarlanmıştır ve çeşitli özelleştirme seçenekleri sunar.
 
 ## Özellikler
