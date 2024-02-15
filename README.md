@@ -1,54 +1,35 @@
 # Canli-saat-uygulamasi
 
-Kısa Açıklama (200 Kelime)
-Python Canlı Saat Uygulaması: Bu basit uygulama, Python'da Tkinter kütüphanesini kullanarak gerçek zamanlı bir saat oluşturur. Şu anki zamanı büyük ve okunaklı bir şekilde gösterir ve her saniye otomatik olarak güncellenir.
+## Uzun Açıklama
 
-Özellikler:
+**Python Canlı Saat Uygulaması:** Bu uygulama, Python'da Tkinter kütüphanesini kullanarak gerçek zamanlı bir saat oluşturur. Şu anki zamanı büyük ve okunaklı bir şekilde gösterir ve her saniye otomatik olarak güncellenir.
 
-Kolay kurulum ve kullanım
-Gerçek zamanlı saat göstergesi
-Büyük ve okunaklı yazı tipi
-Her saniye otomatik güncelleme
-Kullanım Alanları:
+**Özellikler:**
 
-Bilgisayarınızda veya sunucunuzda saati takip etmek
-Bir sunum veya gösteri için zamanlayıcı oluşturmak
-Kendi dijital saatinizi oluşturmak
-Uygulamayı çalıştırmak için:
+* **Kolay kurulum ve kullanım:** Tek yapmanız gereken kodu kopyalamak, bir `.py` dosyası olarak kaydetmek ve çalıştırmaktır.
+* **Gerçek zamanlı saat göstergesi:** Saat, her saniye otomatik olarak güncellenen büyük ve okunaklı bir yazı tipiyle gösterilir.
+* **Büyük ve okunaklı yazı tipi:** Saat, uzaktan bile kolayca görülebilecek şekilde büyük ve okunaklı bir yazı tipiyle gösterilir.
+* **Her saniye otomatik güncelleme:** Saat, her saniye otomatik olarak güncellenerek her zaman doğru zamanı gösterir.
 
-Kodunuzu bir .py dosyası olarak kaydedin.
-Python yorumlayıcınızda dosyayı çalıştırın.
-Daha fazla bilgi için:
+**Kullanım Alanları:**
 
-GitHub deposu: https://github.com/topics/depot
-Python Dersleri - Python Tarih ve Saat İşlemleri: [[geçersiz URL kaldırıldı]]([geçersiz URL kaldırıldı])
-Tkinter Dersleri - Python: [[geçersiz URL kaldırıldı]]([geçersiz URL kaldırıldı])
-Uzun Açıklama
-Python Canlı Saat Uygulaması: Bu uygulama, Python'da Tkinter kütüphanesini kullanarak gerçek zamanlı bir saat oluşturur. Şu anki zamanı büyük ve okunaklı bir şekilde gösterir ve her saniye otomatik olarak güncellenir.
+* **Bilgisayarınızda veya sunucunuzda saati takip etmek:** Bu uygulama, bilgisayarınızda veya sunucunuzda saati takip etmek için kullanılabilir.
+* **Bir sunum veya gösteri için zamanlayıcı oluşturmak:** Bu uygulama, bir sunum veya gösteri için zamanlayıcı oluşturmak için kullanılabilir.
+* **Kendi dijital saatinizi oluşturmak:** Bu uygulamayı kullanarak kendi dijital saatinizi oluşturabilirsiniz.
 
-Özellikler:
+**Uygulamayı çalıştırmak için:**
 
-Kolay kurulum ve kullanım: Tek yapmanız gereken kodu kopyalamak, bir .py dosyası olarak kaydetmek ve çalıştırmaktır.
-Gerçek zamanlı saat göstergesi: Saat, her saniye otomatik olarak güncellenen büyük ve okunaklı bir yazı tipiyle gösterilir.
-Büyük ve okunaklı yazı tipi: Saat, uzaktan bile kolayca görülebilecek şekilde büyük ve okunaklı bir yazı tipiyle gösterilir.
-Her saniye otomatik güncelleme: Saat, her saniye otomatik olarak güncellenerek her zaman doğru zamanı gösterir.
-Kullanım Alanları:
+1. Kodunuzu bir `.py` dosyası olarak kaydedin.
+2. Python yorumlayıcınızda dosyayı çalıştırın.
 
-Bilgisayarınızda veya sunucunuzda saati takip etmek: Bu uygulama, bilgisayarınızda veya sunucunuzda saati takip etmek için kullanılabilir.
-Bir sunum veya gösteri için zamanlayıcı oluşturmak: Bu uygulama, bir sunum veya gösteri için zamanlayıcı oluşturmak için kullanılabilir.
-Kendi dijital saatinizi oluşturmak: Bu uygulamayı kullanarak kendi dijital saatinizi oluşturabilirsiniz.
-Uygulamayı çalıştırmak için:
+**Daha fazla bilgi için:**
 
-Kodunuzu bir .py dosyası olarak kaydedin.
-Python yorumlayıcınızda dosyayı çalıştırın.
-Daha fazla bilgi için:
+* GitHub deposu: [https://github.com/topics/depot](https://github.com/topics/depot)
 
-GitHub deposu: https://github.com/topics/depot
-Python Dersleri - Python Tarih ve Saat İşlemleri: [[geçersiz URL kaldırıldı]]([geçersiz URL kaldırıldı])
-Tkinter Dersleri - Python: [[geçersiz URL kaldırıldı]]([geçersiz URL kaldırıldı])
-Geliştirmeler:
+**Geliştirmeler:**
 
-Tarihi de gösterebilirsiniz.
-Farklı yazı tipleri ve renkler kullanabilirsiniz.
-Alarm fonksiyonu ekleyebilirsiniz.
-Not: Bu uygulama, eğitim ve deneme amaçlıdır. Ticari kullanım için uygun olmayabilir.
+* Tarihi de gösterebilirsiniz.
+* Farklı yazı tipleri ve renkler kullanabilirsiniz.
+* Alarm fonksiyonu ekleyebilirsiniz.
+
+**Not:** Bu uygulama, eğitim ve deneme amaçlıdır. Ticari kullanım için uygun olmayabilir.
